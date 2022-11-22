@@ -9,5 +9,6 @@ public class Addition {
 
 
         System.out.println("Sum of "+num1+" and "+num2+" is: "+sum);
+        System.out.println("Add new line");
     }
 }
